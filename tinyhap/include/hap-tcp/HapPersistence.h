@@ -14,7 +14,7 @@
 #define __HAP_PERSISTENCE_H__
 
 #include <data/EntityIdentifier.h>
-#include <x25519/tiny_ed25519.h>
+#include <ed25519/tiny_ed25519.h>
 #include "tiny_base.h"
 
 TINY_BEGIN_DECLS
